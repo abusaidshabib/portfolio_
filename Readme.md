@@ -1,2 +1,2 @@
-projectURL:https://abusaidshabib.github.io/portfolio_/
-Project Sections: 12 sections
+Project URL: https://abusaidshabib.github.io/portfolio_/
+Sections: 4
